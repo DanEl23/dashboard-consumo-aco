@@ -1,0 +1,1001 @@
+ID_Obra,Cidade,Area_Construida_m2,N_Pavimentos,Tipologia,Metodo_Construtivo,Consumo_Aco_kg
+OBRA_0001,Curitiba,11401,5,Bloco,Alvenaria Estrutural,116741.89
+OBRA_0002,Fortaleza,11016,3,Bloco,Alvenaria Estrutural,112307.66
+OBRA_0003,Belo Horizonte,2233,1,Torre,Alvenaria Estrutural,27253.79
+OBRA_0004,Fortaleza,2105,6,Torre,Alvenaria Estrutural,27434.93
+OBRA_0005,Fortaleza,6122,15,Geminado,Alvenaria Estrutural,57634.27
+OBRA_0006,Rio de Janeiro,7267,2,Torre,Alvenaria Estrutural,88754.93
+OBRA_0007,Belo Horizonte,11255,3,Geminado,Alvenaria Estrutural,104283.57
+OBRA_0008,Belo Horizonte,12113,17,Bloco,Alvenaria Estrutural,125764.24
+OBRA_0009,Belo Horizonte,7486,24,Bloco,Alvenaria Estrutural,79309.03
+OBRA_0010,Fortaleza,4017,12,Geminado,Convencional,43676.53
+OBRA_0011,Curitiba,11089,18,Torre,Alvenaria Estrutural,138906.9
+OBRA_0012,Belo Horizonte,14418,15,Bloco,Convencional,174536.74
+OBRA_0013,Porto Alegre,4235,12,Torre,Convencional,63100.98
+OBRA_0014,Fortaleza,11562,16,Bloco,Alvenaria Estrutural,120826.3
+OBRA_0015,Rio de Janeiro,9852,8,Geminado,Alvenaria Estrutural,92253.43
+OBRA_0016,Curitiba,13546,14,Geminado,Convencional,147320.02
+OBRA_0017,Porto Alegre,8934,17,Geminado,Convencional,97600.94
+OBRA_0018,Porto Alegre,3090,21,Bloco,Alvenaria Estrutural,34375.17
+OBRA_0019,Rio de Janeiro,1563,8,Torre,Convencional,23730.23
+OBRA_0020,Curitiba,4824,15,Torre,Alvenaria Estrutural,60631.32
+OBRA_0021,Fortaleza,11287,14,Torre,Alvenaria Estrutural,140177.09
+OBRA_0022,São Paulo,9611,18,Bloco,Alvenaria Estrutural,99786.76
+OBRA_0023,Curitiba,5842,20,Bloco,Convencional,72854.66
+OBRA_0024,Rio de Janeiro,505,7,Bloco,Convencional,6933.49
+OBRA_0025,Porto Alegre,7989,3,Bloco,Alvenaria Estrutural,82154.99
+OBRA_0026,Fortaleza,9159,12,Bloco,Convencional,110900.73
+OBRA_0027,Curitiba,14543,21,Torre,Convencional,213155.43
+OBRA_0028,São Paulo,12862,24,Bloco,Convencional,157572.81
+OBRA_0029,São Paulo,8695,3,Bloco,Convencional,105023.15
+OBRA_0030,Belo Horizonte,6466,20,Torre,Convencional,95431.57
+OBRA_0031,Belo Horizonte,9337,14,Bloco,Convencional,114573.82
+OBRA_0032,Rio de Janeiro,617,15,Torre,Convencional,11037.94
+OBRA_0033,Curitiba,11620,14,Torre,Alvenaria Estrutural,144306.42
+OBRA_0034,Curitiba,14417,7,Geminado,Convencional,156298.19
+OBRA_0035,Porto Alegre,3051,17,Geminado,Convencional,34917.24
+OBRA_0036,Porto Alegre,14809,12,Geminado,Convencional,161381.76
+OBRA_0037,Porto Alegre,13734,20,Geminado,Convencional,149077.23
+OBRA_0038,Belo Horizonte,6060,4,Bloco,Convencional,73491.22
+OBRA_0039,Curitiba,4789,9,Geminado,Convencional,53675.87
+OBRA_0040,Curitiba,1346,6,Torre,Convencional,20516.29
+OBRA_0041,São Paulo,11454,16,Bloco,Convencional,138889.15
+OBRA_0042,Belo Horizonte,14203,22,Geminado,Alvenaria Estrutural,132728.12
+OBRA_0043,Fortaleza,14246,22,Torre,Convencional,208840.14
+OBRA_0044,Belo Horizonte,6816,21,Bloco,Convencional,84568.23
+OBRA_0045,Fortaleza,14456,21,Bloco,Convencional,175954.94
+OBRA_0046,São Paulo,6969,2,Geminado,Convencional,75360.13
+OBRA_0047,Rio de Janeiro,14221,24,Bloco,Alvenaria Estrutural,147379.05
+OBRA_0048,Curitiba,9833,8,Torre,Alvenaria Estrutural,121684.01
+OBRA_0049,São Paulo,10502,11,Bloco,Alvenaria Estrutural,107538.84
+OBRA_0050,Curitiba,9415,13,Torre,Alvenaria Estrutural,116644.86
+OBRA_0051,Porto Alegre,724,17,Bloco,Alvenaria Estrutural,9916.6
+OBRA_0052,Rio de Janeiro,13319,8,Geminado,Alvenaria Estrutural,123819.92
+OBRA_0053,Rio de Janeiro,4708,21,Torre,Alvenaria Estrutural,59457.25
+OBRA_0054,São Paulo,6783,18,Bloco,Alvenaria Estrutural,70456.89
+OBRA_0055,Rio de Janeiro,13346,18,Bloco,Alvenaria Estrutural,137829.89
+OBRA_0056,Fortaleza,2548,14,Bloco,Alvenaria Estrutural,27863.89
+OBRA_0057,Rio de Janeiro,6733,15,Torre,Alvenaria Estrutural,83334.18
+OBRA_0058,Curitiba,13441,6,Torre,Alvenaria Estrutural,165224.84
+OBRA_0059,Curitiba,13107,11,Torre,Alvenaria Estrutural,161538.99
+OBRA_0060,Curitiba,10265,13,Geminado,Alvenaria Estrutural,96089.08
+OBRA_0061,Curitiba,2328,1,Geminado,Alvenaria Estrutural,20624.39
+OBRA_0062,Fortaleza,2417,6,Torre,Alvenaria Estrutural,30364.75
+OBRA_0063,Belo Horizonte,4734,9,Bloco,Convencional,57691.2
+OBRA_0064,Porto Alegre,7488,8,Geminado,Alvenaria Estrutural,70209.14
+OBRA_0065,São Paulo,2526,11,Torre,Convencional,38257.23
+OBRA_0066,Curitiba,4244,22,Bloco,Alvenaria Estrutural,45239.89
+OBRA_0067,Rio de Janeiro,9593,19,Geminado,Alvenaria Estrutural,90234.63
+OBRA_0068,Curitiba,13477,24,Bloco,Convencional,164409.59
+OBRA_0069,Rio de Janeiro,10731,9,Bloco,Alvenaria Estrutural,110873.86
+OBRA_0070,Porto Alegre,509,17,Bloco,Convencional,8029.46
+OBRA_0071,Porto Alegre,760,12,Bloco,Convencional,11087.33
+OBRA_0072,Porto Alegre,6538,14,Geminado,Convencional,72340.44
+OBRA_0073,Rio de Janeiro,10365,15,Geminado,Alvenaria Estrutural,98157.95
+OBRA_0074,Curitiba,2719,16,Geminado,Alvenaria Estrutural,26402.77
+OBRA_0075,Porto Alegre,7541,22,Torre,Alvenaria Estrutural,95186.07
+OBRA_0076,Fortaleza,2560,22,Geminado,Convencional,29784.29
+OBRA_0077,Rio de Janeiro,5787,20,Bloco,Convencional,71845.34
+OBRA_0078,Rio de Janeiro,12405,1,Geminado,Alvenaria Estrutural,112618.78
+OBRA_0079,Curitiba,2119,10,Bloco,Alvenaria Estrutural,22866.59
+OBRA_0080,Rio de Janeiro,9012,8,Torre,Alvenaria Estrutural,111957.52
+OBRA_0081,Rio de Janeiro,1842,18,Bloco,Alvenaria Estrutural,20822.72
+OBRA_0082,Porto Alegre,14424,1,Bloco,Alvenaria Estrutural,146569.87
+OBRA_0083,Curitiba,11068,2,Bloco,Convencional,132655.11
+OBRA_0084,Porto Alegre,3332,1,Torre,Convencional,46909.7
+OBRA_0085,Porto Alegre,3324,1,Geminado,Convencional,36496.66
+OBRA_0086,Curitiba,2494,9,Geminado,Alvenaria Estrutural,23217.86
+OBRA_0087,São Paulo,11650,13,Torre,Convencional,169617.65
+OBRA_0088,Porto Alegre,14731,1,Bloco,Convencional,176815.13
+OBRA_0089,Fortaleza,10730,13,Geminado,Convencional,118031.86
+OBRA_0090,Fortaleza,3990,20,Torre,Convencional,60378.64
+OBRA_0091,Rio de Janeiro,12369,22,Geminado,Convencional,136365.65
+OBRA_0092,Fortaleza,9810,7,Torre,Alvenaria Estrutural,121204.43
+OBRA_0093,Rio de Janeiro,8484,2,Bloco,Convencional,102727.71
+OBRA_0094,São Paulo,2104,6,Geminado,Alvenaria Estrutural,19745.96
+OBRA_0095,Curitiba,12719,7,Torre,Alvenaria Estrutural,157472.17
+OBRA_0096,Curitiba,735,14,Geminado,Alvenaria Estrutural,7039.67
+OBRA_0097,Curitiba,10661,18,Geminado,Alvenaria Estrutural,99949.12
+OBRA_0098,Fortaleza,13121,15,Geminado,Alvenaria Estrutural,121394.47
+OBRA_0099,São Paulo,2408,2,Geminado,Convencional,25976.03
+OBRA_0100,Fortaleza,9067,10,Torre,Convencional,132289.51
+OBRA_0101,Fortaleza,4030,23,Bloco,Alvenaria Estrutural,43732.7
+OBRA_0102,São Paulo,5756,12,Torre,Alvenaria Estrutural,72225.45
+OBRA_0103,São Paulo,3135,17,Torre,Alvenaria Estrutural,39760.12
+OBRA_0104,São Paulo,8662,8,Torre,Convencional,126609.32
+OBRA_0105,São Paulo,10262,11,Bloco,Alvenaria Estrutural,105344.08
+OBRA_0106,Curitiba,3060,3,Geminado,Convencional,32988.36
+OBRA_0107,Belo Horizonte,5915,6,Geminado,Alvenaria Estrutural,55169.45
+OBRA_0108,Belo Horizonte,3891,9,Geminado,Convencional,42851.44
+OBRA_0109,São Paulo,11657,6,Bloco,Alvenaria Estrutural,119667.53
+OBRA_0110,Belo Horizonte,12335,9,Geminado,Convencional,133111.7
+OBRA_0111,Belo Horizonte,6451,7,Bloco,Alvenaria Estrutural,66656.36
+OBRA_0112,São Paulo,5968,9,Geminado,Convencional,65535.32
+OBRA_0113,Belo Horizonte,8507,18,Geminado,Convencional,93564.67
+OBRA_0114,Fortaleza,12542,12,Torre,Convencional,181295.76
+OBRA_0115,Rio de Janeiro,9564,8,Bloco,Convencional,115621.6
+OBRA_0116,Rio de Janeiro,9944,8,Torre,Convencional,144326.91
+OBRA_0117,São Paulo,6913,18,Torre,Convencional,101955.59
+OBRA_0118,Curitiba,14639,20,Torre,Convencional,212763.51
+OBRA_0119,São Paulo,7441,15,Bloco,Alvenaria Estrutural,78225.57
+OBRA_0120,Curitiba,10006,7,Bloco,Alvenaria Estrutural,102455.77
+OBRA_0121,Rio de Janeiro,5320,11,Geminado,Alvenaria Estrutural,49736.3
+OBRA_0122,São Paulo,14840,20,Torre,Alvenaria Estrutural,182884.86
+OBRA_0123,Porto Alegre,3398,16,Geminado,Alvenaria Estrutural,33459.87
+OBRA_0124,Fortaleza,8046,4,Torre,Convencional,116205.13
+OBRA_0125,Belo Horizonte,577,6,Bloco,Convencional,7693.23
+OBRA_0126,Curitiba,8077,22,Bloco,Convencional,100124.37
+OBRA_0127,Porto Alegre,11313,3,Bloco,Convencional,135777.85
+OBRA_0128,Belo Horizonte,4727,9,Torre,Convencional,69846.42
+OBRA_0129,Belo Horizonte,1100,10,Bloco,Alvenaria Estrutural,11209.34
+OBRA_0130,São Paulo,14560,14,Torre,Alvenaria Estrutural,180203.49
+OBRA_0131,Belo Horizonte,1565,11,Geminado,Alvenaria Estrutural,16162.62
+OBRA_0132,Fortaleza,2636,18,Torre,Alvenaria Estrutural,34177.63
+OBRA_0133,Porto Alegre,11141,22,Geminado,Convencional,123258.24
+OBRA_0134,Belo Horizonte,11035,12,Torre,Convencional,161548.96
+OBRA_0135,São Paulo,10555,23,Geminado,Convencional,116350.58
+OBRA_0136,Fortaleza,10010,12,Bloco,Alvenaria Estrutural,103157.24
+OBRA_0137,Rio de Janeiro,13403,13,Geminado,Convencional,145707.25
+OBRA_0138,Porto Alegre,12289,13,Bloco,Alvenaria Estrutural,126418.93
+OBRA_0139,Belo Horizonte,7443,19,Bloco,Convencional,91188.32
+OBRA_0140,São Paulo,12454,19,Geminado,Convencional,136105.64
+OBRA_0141,Rio de Janeiro,8304,23,Torre,Alvenaria Estrutural,105055.58
+OBRA_0142,Rio de Janeiro,7065,14,Torre,Convencional,103357.04
+OBRA_0143,Curitiba,6484,4,Torre,Convencional,94074.86
+OBRA_0144,Fortaleza,5642,13,Torre,Alvenaria Estrutural,70668.4
+OBRA_0145,Belo Horizonte,5170,8,Torre,Convencional,76349.05
+OBRA_0146,São Paulo,2690,23,Bloco,Alvenaria Estrutural,29532.42
+OBRA_0147,Curitiba,9684,21,Torre,Convencional,142664.17
+OBRA_0148,Fortaleza,3212,23,Bloco,Convencional,41699.53
+OBRA_0149,Curitiba,2692,19,Bloco,Convencional,35328.87
+OBRA_0150,Porto Alegre,1748,12,Bloco,Convencional,22157.12
+OBRA_0151,Fortaleza,11746,18,Geminado,Convencional,128491.85
+OBRA_0152,Fortaleza,13290,6,Geminado,Convencional,143649.11
+OBRA_0153,Belo Horizonte,4533,18,Bloco,Convencional,57674.15
+OBRA_0154,Fortaleza,2497,19,Geminado,Convencional,29711.84
+OBRA_0155,Curitiba,13608,22,Torre,Alvenaria Estrutural,169233.62
+OBRA_0156,Fortaleza,4187,5,Torre,Alvenaria Estrutural,52826.6
+OBRA_0157,Belo Horizonte,10843,24,Bloco,Convencional,132945.07
+OBRA_0158,Belo Horizonte,4518,9,Torre,Convencional,66717.41
+OBRA_0159,Porto Alegre,11802,3,Bloco,Alvenaria Estrutural,120691.49
+OBRA_0160,Curitiba,2470,10,Bloco,Convencional,31038.9
+OBRA_0161,Rio de Janeiro,8889,19,Torre,Convencional,130883.48
+OBRA_0162,Rio de Janeiro,6265,3,Geminado,Alvenaria Estrutural,57575.61
+OBRA_0163,Fortaleza,11318,22,Torre,Convencional,166693.45
+OBRA_0164,Porto Alegre,1702,15,Torre,Convencional,27026.78
+OBRA_0165,São Paulo,8635,1,Bloco,Alvenaria Estrutural,88692.85
+OBRA_0166,Fortaleza,6067,7,Bloco,Convencional,73804.11
+OBRA_0167,Porto Alegre,8167,12,Bloco,Convencional,98990.72
+OBRA_0168,Curitiba,6242,17,Bloco,Alvenaria Estrutural,66257.09
+OBRA_0169,Curitiba,6288,21,Geminado,Convencional,70047.12
+OBRA_0170,Curitiba,5908,24,Geminado,Alvenaria Estrutural,56620.67
+OBRA_0171,Curitiba,10727,20,Geminado,Convencional,118329.29
+OBRA_0172,Curitiba,9169,5,Bloco,Convencional,110806.71
+OBRA_0173,Porto Alegre,9946,4,Bloco,Alvenaria Estrutural,102314.91
+OBRA_0174,Porto Alegre,1422,12,Bloco,Alvenaria Estrutural,16265.09
+OBRA_0175,Belo Horizonte,919,20,Geminado,Convencional,11972.78
+OBRA_0176,Rio de Janeiro,2704,24,Bloco,Alvenaria Estrutural,30841.53
+OBRA_0177,Curitiba,11289,18,Torre,Alvenaria Estrutural,140247.11
+OBRA_0178,São Paulo,1620,17,Torre,Convencional,25944.37
+OBRA_0179,Porto Alegre,11760,19,Bloco,Convencional,143206.16
+OBRA_0180,São Paulo,1450,9,Torre,Convencional,21839.26
+OBRA_0181,São Paulo,2836,4,Torre,Alvenaria Estrutural,35724.34
+OBRA_0182,São Paulo,5873,21,Geminado,Alvenaria Estrutural,57402.89
+OBRA_0183,Belo Horizonte,2743,2,Bloco,Alvenaria Estrutural,28001.72
+OBRA_0184,Porto Alegre,3145,4,Bloco,Alvenaria Estrutural,33094.66
+OBRA_0185,São Paulo,10549,2,Geminado,Convencional,113982.24
+OBRA_0186,Curitiba,5112,15,Torre,Alvenaria Estrutural,64401.64
+OBRA_0187,Fortaleza,14446,2,Torre,Convencional,209189.19
+OBRA_0188,São Paulo,2365,4,Bloco,Alvenaria Estrutural,23994.23
+OBRA_0189,Belo Horizonte,11604,6,Torre,Convencional,167292.52
+OBRA_0190,Porto Alegre,13929,7,Geminado,Convencional,151145.6
+OBRA_0191,Belo Horizonte,11545,10,Geminado,Convencional,126097.83
+OBRA_0192,São Paulo,6528,19,Bloco,Alvenaria Estrutural,68755.43
+OBRA_0193,Porto Alegre,7826,19,Geminado,Convencional,86753.14
+OBRA_0194,Fortaleza,13602,22,Geminado,Convencional,149294.67
+OBRA_0195,São Paulo,6871,12,Bloco,Alvenaria Estrutural,71701.47
+OBRA_0196,Belo Horizonte,14688,3,Geminado,Convencional,157497.56
+OBRA_0197,Rio de Janeiro,6859,13,Geminado,Alvenaria Estrutural,63783.62
+OBRA_0198,Curitiba,8363,18,Geminado,Alvenaria Estrutural,78377.93
+OBRA_0199,Belo Horizonte,14850,8,Torre,Convencional,215344.27
+OBRA_0200,Porto Alegre,3728,21,Bloco,Convencional,48000.88
+OBRA_0201,São Paulo,4219,15,Bloco,Alvenaria Estrutural,44121.25
+OBRA_0202,Curitiba,11920,1,Bloco,Convencional,143888.54
+OBRA_0203,São Paulo,14882,3,Torre,Alvenaria Estrutural,182296.6
+OBRA_0204,Porto Alegre,2871,8,Torre,Alvenaria Estrutural,36055.29
+OBRA_0205,São Paulo,3391,4,Bloco,Alvenaria Estrutural,35286.92
+OBRA_0206,Rio de Janeiro,4256,16,Torre,Convencional,63488.78
+OBRA_0207,Curitiba,4725,23,Bloco,Alvenaria Estrutural,51096.06
+OBRA_0208,Curitiba,594,10,Torre,Convencional,9791.3
+OBRA_0209,Porto Alegre,3174,12,Geminado,Convencional,35380.43
+OBRA_0210,Rio de Janeiro,7398,14,Geminado,Convencional,81936.39
+OBRA_0211,Belo Horizonte,10647,14,Bloco,Convencional,129062.44
+OBRA_0212,São Paulo,1293,2,Torre,Alvenaria Estrutural,16195.58
+OBRA_0213,Fortaleza,10526,23,Torre,Convencional,154056.16
+OBRA_0214,São Paulo,2616,5,Geminado,Alvenaria Estrutural,25383.7
+OBRA_0215,São Paulo,6279,5,Geminado,Alvenaria Estrutural,58703.5
+OBRA_0216,Belo Horizonte,12798,6,Torre,Convencional,186530.25
+OBRA_0217,São Paulo,12017,13,Torre,Alvenaria Estrutural,149348.46
+OBRA_0218,Rio de Janeiro,14653,9,Torre,Alvenaria Estrutural,179889.49
+OBRA_0219,Rio de Janeiro,11611,22,Torre,Convencional,170700.72
+OBRA_0220,Curitiba,11289,15,Torre,Alvenaria Estrutural,139554.36
+OBRA_0221,Porto Alegre,11897,14,Torre,Alvenaria Estrutural,148121.9
+OBRA_0222,Fortaleza,13499,24,Bloco,Alvenaria Estrutural,139587.23
+OBRA_0223,São Paulo,6666,7,Torre,Alvenaria Estrutural,81874.06
+OBRA_0224,São Paulo,1314,20,Geminado,Convencional,15546.29
+OBRA_0225,Belo Horizonte,845,2,Bloco,Alvenaria Estrutural,8578.81
+OBRA_0226,Porto Alegre,11041,7,Torre,Alvenaria Estrutural,135653.9
+OBRA_0227,Rio de Janeiro,9054,6,Geminado,Alvenaria Estrutural,83035.7
+OBRA_0228,Fortaleza,2943,17,Bloco,Alvenaria Estrutural,32747.5
+OBRA_0229,Curitiba,10957,2,Geminado,Convencional,118816.54
+OBRA_0230,Rio de Janeiro,10880,3,Torre,Alvenaria Estrutural,133744.52
+OBRA_0231,Porto Alegre,8283,5,Torre,Convencional,120789.78
+OBRA_0232,Curitiba,11697,5,Torre,Alvenaria Estrutural,143911.41
+OBRA_0233,Belo Horizonte,11973,1,Torre,Convencional,172180.86
+OBRA_0234,Belo Horizonte,1484,8,Bloco,Convencional,17917.9
+OBRA_0235,São Paulo,8290,12,Bloco,Convencional,100517.47
+OBRA_0236,Porto Alegre,10331,24,Geminado,Convencional,114919.51
+OBRA_0237,Fortaleza,1327,4,Torre,Convencional,19057.13
+OBRA_0238,Curitiba,11422,13,Geminado,Alvenaria Estrutural,106223.92
+OBRA_0239,Rio de Janeiro,4031,23,Bloco,Alvenaria Estrutural,43979.16
+OBRA_0240,Porto Alegre,7647,15,Torre,Alvenaria Estrutural,95577.95
+OBRA_0241,Porto Alegre,4951,11,Torre,Convencional,73077.89
+OBRA_0242,Belo Horizonte,14135,10,Bloco,Alvenaria Estrutural,145524.8
+OBRA_0243,São Paulo,11627,3,Bloco,Convencional,140073.64
+OBRA_0244,São Paulo,4376,22,Bloco,Convencional,55956.54
+OBRA_0245,Curitiba,6459,14,Bloco,Alvenaria Estrutural,66789.65
+OBRA_0246,Belo Horizonte,626,16,Bloco,Alvenaria Estrutural,8137.41
+OBRA_0247,Porto Alegre,3677,10,Torre,Convencional,53479.68
+OBRA_0248,Fortaleza,11748,10,Bloco,Convencional,141139.13
+OBRA_0249,Belo Horizonte,9295,12,Torre,Alvenaria Estrutural,115198.76
+OBRA_0250,Curitiba,12141,9,Torre,Alvenaria Estrutural,149979.13
+OBRA_0251,Curitiba,6524,1,Bloco,Alvenaria Estrutural,67462.13
+OBRA_0252,Belo Horizonte,5609,5,Bloco,Alvenaria Estrutural,58931.7
+OBRA_0253,Curitiba,4646,20,Torre,Convencional,70442.33
+OBRA_0254,Belo Horizonte,7696,8,Bloco,Alvenaria Estrutural,79678.78
+OBRA_0255,Rio de Janeiro,12225,11,Bloco,Alvenaria Estrutural,125896.98
+OBRA_0256,Belo Horizonte,12059,12,Bloco,Alvenaria Estrutural,123460.19
+OBRA_0257,Belo Horizonte,3868,1,Geminado,Convencional,41809.38
+OBRA_0258,Curitiba,4297,22,Torre,Convencional,65689.99
+OBRA_0259,Curitiba,14218,20,Geminado,Convencional,156163.54
+OBRA_0260,São Paulo,2292,11,Bloco,Convencional,28180.83
+OBRA_0261,São Paulo,11553,5,Geminado,Alvenaria Estrutural,106822.55
+OBRA_0262,Rio de Janeiro,6232,15,Bloco,Convencional,76848.2
+OBRA_0263,São Paulo,3976,5,Geminado,Alvenaria Estrutural,37133.63
+OBRA_0264,Belo Horizonte,3917,12,Bloco,Alvenaria Estrutural,41163.47
+OBRA_0265,Curitiba,2145,5,Geminado,Alvenaria Estrutural,20482.89
+OBRA_0266,São Paulo,9897,17,Geminado,Alvenaria Estrutural,92763.72
+OBRA_0267,São Paulo,3530,17,Geminado,Convencional,39639.27
+OBRA_0268,Rio de Janeiro,3372,24,Torre,Convencional,52240.31
+OBRA_0269,Porto Alegre,3572,12,Geminado,Convencional,39778.9
+OBRA_0270,Rio de Janeiro,2354,24,Torre,Alvenaria Estrutural,31006.94
+OBRA_0271,Belo Horizonte,4521,15,Bloco,Alvenaria Estrutural,47363.4
+OBRA_0272,Curitiba,5162,15,Geminado,Alvenaria Estrutural,47982.32
+OBRA_0273,Rio de Janeiro,7014,6,Bloco,Alvenaria Estrutural,72644.85
+OBRA_0274,São Paulo,5531,12,Bloco,Alvenaria Estrutural,57818.14
+OBRA_0275,Curitiba,14722,20,Geminado,Convencional,160979.85
+OBRA_0276,Curitiba,3208,18,Torre,Alvenaria Estrutural,42179.38
+OBRA_0277,São Paulo,12194,14,Geminado,Convencional,133241.2
+OBRA_0278,Rio de Janeiro,7612,2,Bloco,Alvenaria Estrutural,77130.79
+OBRA_0279,São Paulo,10024,9,Bloco,Alvenaria Estrutural,102943.06
+OBRA_0280,Porto Alegre,8893,5,Geminado,Convencional,97400.83
+OBRA_0281,Curitiba,4007,20,Torre,Convencional,60246.06
+OBRA_0282,Fortaleza,6956,1,Torre,Alvenaria Estrutural,85401.45
+OBRA_0283,Fortaleza,4712,23,Bloco,Alvenaria Estrutural,50780.34
+OBRA_0284,Belo Horizonte,13724,3,Bloco,Alvenaria Estrutural,140585.77
+OBRA_0285,São Paulo,8470,6,Torre,Alvenaria Estrutural,105631.93
+OBRA_0286,São Paulo,9266,5,Geminado,Convencional,100024.65
+OBRA_0287,Belo Horizonte,1036,21,Bloco,Alvenaria Estrutural,12170.97
+OBRA_0288,Belo Horizonte,2125,5,Torre,Convencional,30740.12
+OBRA_0289,Belo Horizonte,10814,1,Bloco,Alvenaria Estrutural,110256.84
+OBRA_0290,Curitiba,8473,17,Geminado,Convencional,93894.09
+OBRA_0291,Porto Alegre,9077,19,Torre,Convencional,132928.93
+OBRA_0292,São Paulo,8570,14,Bloco,Alvenaria Estrutural,89398.68
+OBRA_0293,Curitiba,11973,12,Geminado,Convencional,130621.96
+OBRA_0294,Belo Horizonte,9166,10,Bloco,Alvenaria Estrutural,93958.7
+OBRA_0295,São Paulo,9109,20,Geminado,Convencional,99661.52
+OBRA_0296,Curitiba,6990,21,Geminado,Alvenaria Estrutural,65332.21
+OBRA_0297,Porto Alegre,4100,18,Torre,Convencional,61299.07
+OBRA_0298,Curitiba,7283,24,Geminado,Alvenaria Estrutural,68976.56
+OBRA_0299,Porto Alegre,13726,11,Bloco,Alvenaria Estrutural,141800.23
+OBRA_0300,Belo Horizonte,9646,2,Geminado,Convencional,104792.34
+OBRA_0301,Porto Alegre,5471,18,Geminado,Convencional,60611.33
+OBRA_0302,São Paulo,13550,7,Torre,Convencional,196332.33
+OBRA_0303,Belo Horizonte,13990,24,Geminado,Convencional,154509.77
+OBRA_0304,São Paulo,1705,15,Geminado,Alvenaria Estrutural,17965.86
+OBRA_0305,Fortaleza,13451,11,Bloco,Convencional,162574.8
+OBRA_0306,Rio de Janeiro,12812,18,Torre,Alvenaria Estrutural,159501.22
+OBRA_0307,Porto Alegre,2490,23,Torre,Convencional,39862.98
+OBRA_0308,Rio de Janeiro,5799,12,Torre,Alvenaria Estrutural,71695.02
+OBRA_0309,Rio de Janeiro,13497,6,Geminado,Alvenaria Estrutural,124197.06
+OBRA_0310,Porto Alegre,4072,20,Torre,Alvenaria Estrutural,53399.29
+OBRA_0311,Belo Horizonte,6475,23,Geminado,Alvenaria Estrutural,61401.38
+OBRA_0312,Fortaleza,13972,13,Geminado,Convencional,150837.12
+OBRA_0313,São Paulo,6820,20,Bloco,Convencional,84179.52
+OBRA_0314,Curitiba,4880,16,Bloco,Alvenaria Estrutural,51970.31
+OBRA_0315,São Paulo,12850,18,Bloco,Convencional,156363.26
+OBRA_0316,Curitiba,13790,10,Bloco,Convencional,167037.68
+OBRA_0317,São Paulo,5257,23,Bloco,Alvenaria Estrutural,56436.51
+OBRA_0318,Porto Alegre,3213,8,Geminado,Convencional,35386.93
+OBRA_0319,Fortaleza,10895,18,Geminado,Convencional,119350.3
+OBRA_0320,Curitiba,6088,21,Torre,Convencional,90767.92
+OBRA_0321,Belo Horizonte,11812,1,Geminado,Alvenaria Estrutural,108614.85
+OBRA_0322,São Paulo,1466,23,Geminado,Convencional,18343.84
+OBRA_0323,São Paulo,5444,8,Bloco,Alvenaria Estrutural,56392.38
+OBRA_0324,Curitiba,13895,6,Geminado,Convencional,150339.73
+OBRA_0325,Belo Horizonte,3932,5,Bloco,Convencional,48159.14
+OBRA_0326,Belo Horizonte,1188,15,Torre,Convencional,19566.82
+OBRA_0327,Porto Alegre,4743,22,Torre,Alvenaria Estrutural,60079.12
+OBRA_0328,Porto Alegre,4201,15,Geminado,Alvenaria Estrutural,39747.6
+OBRA_0329,Porto Alegre,9033,2,Torre,Convencional,130409.74
+OBRA_0330,Porto Alegre,5682,1,Geminado,Alvenaria Estrutural,51985.4
+OBRA_0331,Porto Alegre,10416,23,Torre,Convencional,153621.09
+OBRA_0332,Porto Alegre,14171,23,Bloco,Alvenaria Estrutural,146856.76
+OBRA_0333,Fortaleza,7204,11,Bloco,Alvenaria Estrutural,74687.34
+OBRA_0334,Belo Horizonte,4922,10,Bloco,Convencional,60063.65
+OBRA_0335,Porto Alegre,10484,18,Bloco,Convencional,126971.39
+OBRA_0336,Belo Horizonte,2259,18,Geminado,Convencional,25316.03
+OBRA_0337,Belo Horizonte,11904,17,Torre,Convencional,174160.4
+OBRA_0338,Rio de Janeiro,9681,8,Geminado,Alvenaria Estrutural,89739.44
+OBRA_0339,Fortaleza,10954,15,Bloco,Alvenaria Estrutural,113480.13
+OBRA_0340,Porto Alegre,2982,8,Geminado,Alvenaria Estrutural,28176.4
+OBRA_0341,São Paulo,8558,17,Torre,Convencional,125790.48
+OBRA_0342,Curitiba,1451,12,Geminado,Convencional,17451.31
+OBRA_0343,São Paulo,9414,8,Torre,Alvenaria Estrutural,116428.87
+OBRA_0344,Fortaleza,12081,14,Geminado,Convencional,132507.25
+OBRA_0345,Curitiba,2579,4,Torre,Alvenaria Estrutural,32142.29
+OBRA_0346,Fortaleza,3217,1,Torre,Alvenaria Estrutural,39348.29
+OBRA_0347,Belo Horizonte,11024,1,Bloco,Alvenaria Estrutural,112643.9
+OBRA_0348,Curitiba,12068,19,Torre,Alvenaria Estrutural,149619.83
+OBRA_0349,Belo Horizonte,5024,16,Bloco,Alvenaria Estrutural,52686.88
+OBRA_0350,São Paulo,10192,14,Bloco,Convencional,124072.79
+OBRA_0351,São Paulo,8977,21,Bloco,Convencional,110326.16
+OBRA_0352,Curitiba,7811,16,Geminado,Convencional,86033.59
+OBRA_0353,Curitiba,12187,5,Geminado,Alvenaria Estrutural,111641.57
+OBRA_0354,Porto Alegre,7686,9,Geminado,Alvenaria Estrutural,71701.88
+OBRA_0355,Fortaleza,2565,2,Geminado,Alvenaria Estrutural,24147.41
+OBRA_0356,Porto Alegre,1268,18,Torre,Alvenaria Estrutural,18545.37
+OBRA_0357,Fortaleza,5990,6,Torre,Convencional,87340.89
+OBRA_0358,Porto Alegre,11749,9,Geminado,Convencional,127861.93
+OBRA_0359,Belo Horizonte,12981,1,Torre,Alvenaria Estrutural,158503.33
+OBRA_0360,Curitiba,7145,9,Torre,Alvenaria Estrutural,89302.41
+OBRA_0361,São Paulo,5583,16,Bloco,Alvenaria Estrutural,58702.52
+OBRA_0362,Fortaleza,5732,13,Bloco,Convencional,70440.69
+OBRA_0363,Fortaleza,10853,9,Bloco,Convencional,131188.97
+OBRA_0364,São Paulo,11985,21,Bloco,Convencional,146181.02
+OBRA_0365,Porto Alegre,6297,13,Torre,Alvenaria Estrutural,79010.61
+OBRA_0366,Fortaleza,9638,9,Geminado,Alvenaria Estrutural,88792.32
+OBRA_0367,Belo Horizonte,5426,11,Torre,Convencional,80531.12
+OBRA_0368,Curitiba,6516,4,Torre,Alvenaria Estrutural,80949.2
+OBRA_0369,São Paulo,3835,2,Torre,Convencional,55334.97
+OBRA_0370,Curitiba,12842,6,Bloco,Alvenaria Estrutural,131168.47
+OBRA_0371,Fortaleza,8538,14,Bloco,Convencional,103128.4
+OBRA_0372,Fortaleza,13587,4,Bloco,Alvenaria Estrutural,138369.69
+OBRA_0373,São Paulo,5373,6,Geminado,Convencional,59041.36
+OBRA_0374,Belo Horizonte,1981,19,Torre,Convencional,31420.07
+OBRA_0375,Rio de Janeiro,10593,6,Geminado,Convencional,115299.23
+OBRA_0376,São Paulo,6805,2,Bloco,Convencional,80977.21
+OBRA_0377,Rio de Janeiro,3951,18,Geminado,Convencional,44416.89
+OBRA_0378,Porto Alegre,12756,13,Torre,Convencional,186242.04
+OBRA_0379,Rio de Janeiro,14922,9,Torre,Alvenaria Estrutural,183698.87
+OBRA_0380,Belo Horizonte,554,23,Bloco,Alvenaria Estrutural,7360.65
+OBRA_0381,Porto Alegre,8143,19,Bloco,Alvenaria Estrutural,84940.8
+OBRA_0382,Rio de Janeiro,10515,13,Geminado,Convencional,114580.49
+OBRA_0383,Porto Alegre,13989,11,Bloco,Convencional,169354.84
+OBRA_0384,Rio de Janeiro,3962,1,Bloco,Alvenaria Estrutural,40524.67
+OBRA_0385,Belo Horizonte,11771,24,Torre,Convencional,173230.05
+OBRA_0386,Rio de Janeiro,1332,22,Bloco,Convencional,18015.04
+OBRA_0387,Rio de Janeiro,13100,7,Bloco,Convencional,157815.64
+OBRA_0388,Rio de Janeiro,11498,21,Torre,Convencional,169140.42
+OBRA_0389,São Paulo,6454,15,Torre,Convencional,94420.46
+OBRA_0390,São Paulo,14795,1,Geminado,Alvenaria Estrutural,135408.34
+OBRA_0391,São Paulo,14794,12,Bloco,Alvenaria Estrutural,152222.45
+OBRA_0392,Belo Horizonte,11182,7,Torre,Alvenaria Estrutural,137867.84
+OBRA_0393,Porto Alegre,14578,15,Geminado,Alvenaria Estrutural,134958.62
+OBRA_0394,Fortaleza,9019,21,Geminado,Alvenaria Estrutural,84583.0
+OBRA_0395,Rio de Janeiro,7721,19,Bloco,Convencional,95198.61
+OBRA_0396,Rio de Janeiro,3810,1,Bloco,Convencional,46264.82
+OBRA_0397,Belo Horizonte,3800,17,Geminado,Convencional,42341.39
+OBRA_0398,Rio de Janeiro,7222,17,Torre,Convencional,106626.96
+OBRA_0399,São Paulo,7718,3,Geminado,Alvenaria Estrutural,71882.65
+OBRA_0400,Fortaleza,8276,12,Bloco,Alvenaria Estrutural,85581.25
+OBRA_0401,Curitiba,4175,6,Torre,Alvenaria Estrutural,51296.48
+OBRA_0402,Rio de Janeiro,3554,11,Torre,Convencional,52198.55
+OBRA_0403,São Paulo,14075,3,Geminado,Alvenaria Estrutural,129403.53
+OBRA_0404,Curitiba,8470,8,Bloco,Convencional,103117.92
+OBRA_0405,Fortaleza,2643,14,Geminado,Alvenaria Estrutural,25527.56
+OBRA_0406,Curitiba,5707,14,Geminado,Alvenaria Estrutural,53770.08
+OBRA_0407,São Paulo,10003,10,Geminado,Convencional,108614.23
+OBRA_0408,Porto Alegre,11883,2,Torre,Convencional,171894.76
+OBRA_0409,Porto Alegre,3038,14,Torre,Alvenaria Estrutural,38325.89
+OBRA_0410,Curitiba,12675,9,Bloco,Alvenaria Estrutural,129950.75
+OBRA_0411,Belo Horizonte,5047,3,Bloco,Convencional,61238.96
+OBRA_0412,Curitiba,6119,21,Geminado,Alvenaria Estrutural,57080.5
+OBRA_0413,Rio de Janeiro,8856,8,Geminado,Alvenaria Estrutural,82119.46
+OBRA_0414,Rio de Janeiro,12969,16,Geminado,Convencional,141273.66
+OBRA_0415,Porto Alegre,7112,2,Bloco,Alvenaria Estrutural,72754.67
+OBRA_0416,Belo Horizonte,5505,6,Torre,Convencional,79959.97
+OBRA_0417,São Paulo,1322,21,Torre,Alvenaria Estrutural,19804.6
+OBRA_0418,Rio de Janeiro,1443,12,Geminado,Convencional,16683.84
+OBRA_0419,Porto Alegre,14789,5,Geminado,Alvenaria Estrutural,137143.35
+OBRA_0420,Fortaleza,6650,2,Geminado,Convencional,72329.48
+OBRA_0421,Porto Alegre,4925,16,Geminado,Alvenaria Estrutural,46279.57
+OBRA_0422,Rio de Janeiro,9466,5,Bloco,Convencional,114357.41
+OBRA_0423,Rio de Janeiro,2698,15,Torre,Alvenaria Estrutural,34707.32
+OBRA_0424,Porto Alegre,11848,12,Geminado,Alvenaria Estrutural,109987.32
+OBRA_0425,São Paulo,4742,4,Bloco,Alvenaria Estrutural,48419.45
+OBRA_0426,Curitiba,4195,15,Geminado,Alvenaria Estrutural,40732.19
+OBRA_0427,Rio de Janeiro,3952,11,Geminado,Alvenaria Estrutural,37751.86
+OBRA_0428,Porto Alegre,9606,16,Torre,Alvenaria Estrutural,119551.73
+OBRA_0429,Porto Alegre,14359,23,Geminado,Alvenaria Estrutural,134791.58
+OBRA_0430,Belo Horizonte,1808,6,Torre,Alvenaria Estrutural,22901.46
+OBRA_0431,Curitiba,4677,14,Torre,Alvenaria Estrutural,59508.89
+OBRA_0432,Fortaleza,9205,18,Torre,Convencional,135163.15
+OBRA_0433,São Paulo,10612,12,Bloco,Convencional,128980.94
+OBRA_0434,Fortaleza,7352,11,Bloco,Alvenaria Estrutural,76071.68
+OBRA_0435,Curitiba,6535,13,Torre,Convencional,96023.65
+OBRA_0436,Curitiba,4094,21,Geminado,Alvenaria Estrutural,39595.99
+OBRA_0437,Curitiba,5341,23,Torre,Alvenaria Estrutural,67854.17
+OBRA_0438,Fortaleza,1909,11,Geminado,Convencional,21604.67
+OBRA_0439,Curitiba,13494,23,Torre,Alvenaria Estrutural,167873.38
+OBRA_0440,Porto Alegre,5066,16,Geminado,Alvenaria Estrutural,48089.54
+OBRA_0441,Fortaleza,11882,15,Bloco,Convencional,144368.71
+OBRA_0442,Curitiba,4991,21,Geminado,Convencional,56757.32
+OBRA_0443,Porto Alegre,2055,15,Torre,Alvenaria Estrutural,27412.76
+OBRA_0444,Belo Horizonte,1304,4,Bloco,Convencional,16029.84
+OBRA_0445,Curitiba,13721,11,Geminado,Convencional,150065.69
+OBRA_0446,Fortaleza,1779,19,Geminado,Alvenaria Estrutural,19011.93
+OBRA_0447,Rio de Janeiro,14545,15,Geminado,Convencional,157684.09
+OBRA_0448,Curitiba,13692,4,Geminado,Convencional,148771.75
+OBRA_0449,Rio de Janeiro,13864,21,Geminado,Alvenaria Estrutural,128852.83
+OBRA_0450,Porto Alegre,7583,13,Bloco,Convencional,92956.37
+OBRA_0451,Belo Horizonte,6486,22,Bloco,Convencional,81091.12
+OBRA_0452,São Paulo,6119,19,Bloco,Alvenaria Estrutural,63913.3
+OBRA_0453,Belo Horizonte,12269,2,Bloco,Alvenaria Estrutural,124421.64
+OBRA_0454,Curitiba,11593,14,Torre,Alvenaria Estrutural,144029.64
+OBRA_0455,Rio de Janeiro,1887,4,Bloco,Convencional,23191.7
+OBRA_0456,Rio de Janeiro,14091,16,Geminado,Alvenaria Estrutural,129989.96
+OBRA_0457,Fortaleza,13380,21,Geminado,Alvenaria Estrutural,126020.98
+OBRA_0458,Rio de Janeiro,11453,20,Bloco,Convencional,140148.21
+OBRA_0459,Fortaleza,3179,14,Geminado,Alvenaria Estrutural,30803.47
+OBRA_0460,Porto Alegre,2606,15,Bloco,Alvenaria Estrutural,28794.11
+OBRA_0461,São Paulo,8673,3,Geminado,Alvenaria Estrutural,79603.13
+OBRA_0462,Curitiba,4723,8,Torre,Alvenaria Estrutural,58853.95
+OBRA_0463,Fortaleza,5331,16,Torre,Convencional,78410.74
+OBRA_0464,São Paulo,3268,10,Bloco,Alvenaria Estrutural,34049.63
+OBRA_0465,Rio de Janeiro,12645,4,Bloco,Alvenaria Estrutural,129579.83
+OBRA_0466,Rio de Janeiro,3686,18,Bloco,Convencional,45559.36
+OBRA_0467,São Paulo,11972,2,Geminado,Alvenaria Estrutural,109768.42
+OBRA_0468,Rio de Janeiro,3073,17,Bloco,Convencional,38452.03
+OBRA_0469,Porto Alegre,13308,13,Torre,Convencional,193578.25
+OBRA_0470,Porto Alegre,3099,4,Geminado,Convencional,34188.55
+OBRA_0471,São Paulo,4533,11,Bloco,Alvenaria Estrutural,47729.68
+OBRA_0472,Fortaleza,8928,7,Geminado,Convencional,97677.81
+OBRA_0473,Fortaleza,1804,12,Geminado,Convencional,21465.26
+OBRA_0474,São Paulo,12122,10,Bloco,Convencional,146967.62
+OBRA_0475,Fortaleza,7868,7,Geminado,Alvenaria Estrutural,73814.51
+OBRA_0476,Fortaleza,6377,13,Torre,Alvenaria Estrutural,79705.43
+OBRA_0477,Porto Alegre,1801,7,Torre,Alvenaria Estrutural,22814.38
+OBRA_0478,Fortaleza,3041,24,Geminado,Alvenaria Estrutural,30423.23
+OBRA_0479,Belo Horizonte,2551,17,Bloco,Alvenaria Estrutural,27645.99
+OBRA_0480,Curitiba,7309,10,Geminado,Alvenaria Estrutural,68940.9
+OBRA_0481,Rio de Janeiro,9133,10,Torre,Alvenaria Estrutural,113577.41
+OBRA_0482,Belo Horizonte,10768,24,Geminado,Convencional,119261.54
+OBRA_0483,Fortaleza,11872,4,Geminado,Convencional,128715.31
+OBRA_0484,Porto Alegre,11349,20,Torre,Convencional,166101.86
+OBRA_0485,São Paulo,12490,4,Geminado,Convencional,135674.66
+OBRA_0486,Fortaleza,9496,22,Geminado,Alvenaria Estrutural,88629.33
+OBRA_0487,Porto Alegre,574,7,Bloco,Convencional,8495.18
+OBRA_0488,Curitiba,7481,22,Bloco,Convencional,92323.18
+OBRA_0489,Fortaleza,10867,1,Torre,Convencional,156781.35
+OBRA_0490,São Paulo,12616,12,Torre,Convencional,182943.6
+OBRA_0491,Porto Alegre,10781,24,Torre,Alvenaria Estrutural,135258.53
+OBRA_0492,Porto Alegre,5975,13,Bloco,Alvenaria Estrutural,62044.13
+OBRA_0493,Porto Alegre,8732,10,Torre,Alvenaria Estrutural,108428.29
+OBRA_0494,Curitiba,10773,15,Torre,Convencional,157669.9
+OBRA_0495,Fortaleza,7684,13,Torre,Alvenaria Estrutural,95319.54
+OBRA_0496,Curitiba,6296,23,Bloco,Convencional,77750.24
+OBRA_0497,Rio de Janeiro,7641,22,Geminado,Alvenaria Estrutural,72929.93
+OBRA_0498,Rio de Janeiro,14189,22,Torre,Alvenaria Estrutural,176270.01
+OBRA_0499,Fortaleza,13375,21,Geminado,Alvenaria Estrutural,124822.72
+OBRA_0500,Curitiba,2122,22,Torre,Alvenaria Estrutural,28908.81
+OBRA_0501,São Paulo,8541,9,Geminado,Alvenaria Estrutural,78605.73
+OBRA_0502,Porto Alegre,841,9,Bloco,Convencional,11403.33
+OBRA_0503,Porto Alegre,12744,15,Bloco,Alvenaria Estrutural,131568.36
+OBRA_0504,Fortaleza,2574,10,Torre,Convencional,38183.83
+OBRA_0505,Rio de Janeiro,8492,24,Geminado,Convencional,93727.33
+OBRA_0506,Rio de Janeiro,1145,10,Bloco,Convencional,15242.94
+OBRA_0507,Porto Alegre,13518,8,Torre,Convencional,196375.06
+OBRA_0508,Fortaleza,4763,24,Torre,Convencional,72132.5
+OBRA_0509,Curitiba,9301,16,Bloco,Alvenaria Estrutural,95784.97
+OBRA_0510,Rio de Janeiro,14560,17,Bloco,Alvenaria Estrutural,149717.33
+OBRA_0511,Curitiba,6636,5,Torre,Alvenaria Estrutural,81620.58
+OBRA_0512,Rio de Janeiro,9146,4,Geminado,Alvenaria Estrutural,85109.79
+OBRA_0513,Rio de Janeiro,11645,18,Geminado,Convencional,127586.62
+OBRA_0514,Belo Horizonte,10400,24,Geminado,Alvenaria Estrutural,97440.92
+OBRA_0515,Rio de Janeiro,12164,19,Torre,Alvenaria Estrutural,150376.22
+OBRA_0516,São Paulo,3469,4,Bloco,Convencional,41779.66
+OBRA_0517,Fortaleza,3528,7,Torre,Convencional,51194.73
+OBRA_0518,Fortaleza,8143,10,Bloco,Alvenaria Estrutural,83577.01
+OBRA_0519,Curitiba,13489,18,Geminado,Alvenaria Estrutural,125541.4
+OBRA_0520,Rio de Janeiro,3181,19,Geminado,Convencional,36206.22
+OBRA_0521,São Paulo,4129,4,Bloco,Alvenaria Estrutural,43373.55
+OBRA_0522,Curitiba,14387,10,Bloco,Alvenaria Estrutural,148306.4
+OBRA_0523,Belo Horizonte,4725,1,Torre,Alvenaria Estrutural,57651.96
+OBRA_0524,Curitiba,3567,23,Geminado,Alvenaria Estrutural,34398.05
+OBRA_0525,Curitiba,6441,18,Torre,Convencional,96033.72
+OBRA_0526,Rio de Janeiro,1886,5,Torre,Convencional,28708.42
+OBRA_0527,Belo Horizonte,12468,15,Torre,Convencional,180602.08
+OBRA_0528,Curitiba,3366,17,Geminado,Alvenaria Estrutural,32506.91
+OBRA_0529,São Paulo,5288,3,Torre,Alvenaria Estrutural,64966.38
+OBRA_0530,São Paulo,12055,12,Torre,Alvenaria Estrutural,149346.56
+OBRA_0531,Fortaleza,5990,2,Torre,Alvenaria Estrutural,74533.73
+OBRA_0532,Belo Horizonte,13581,1,Torre,Alvenaria Estrutural,166111.81
+OBRA_0533,Belo Horizonte,4624,23,Torre,Convencional,68867.25
+OBRA_0534,Fortaleza,8840,21,Torre,Alvenaria Estrutural,111061.5
+OBRA_0535,Curitiba,4350,17,Geminado,Alvenaria Estrutural,42188.58
+OBRA_0536,Belo Horizonte,5915,22,Torre,Convencional,88192.12
+OBRA_0537,São Paulo,10750,16,Bloco,Alvenaria Estrutural,110929.48
+OBRA_0538,São Paulo,8179,5,Torre,Convencional,118278.97
+OBRA_0539,Rio de Janeiro,7319,15,Torre,Convencional,107978.7
+OBRA_0540,Belo Horizonte,9828,3,Geminado,Convencional,106239.17
+OBRA_0541,Curitiba,8878,7,Geminado,Convencional,96802.78
+OBRA_0542,Fortaleza,11546,11,Bloco,Convencional,139885.9
+OBRA_0543,Fortaleza,9942,10,Bloco,Alvenaria Estrutural,102390.71
+OBRA_0544,Curitiba,1833,9,Geminado,Convencional,21119.05
+OBRA_0545,Porto Alegre,12885,14,Geminado,Convencional,140430.71
+OBRA_0546,Rio de Janeiro,4650,13,Torre,Alvenaria Estrutural,58291.91
+OBRA_0547,Fortaleza,7266,2,Geminado,Alvenaria Estrutural,67284.28
+OBRA_0548,Belo Horizonte,3211,3,Bloco,Convencional,38398.54
+OBRA_0549,Rio de Janeiro,5353,7,Torre,Alvenaria Estrutural,65937.41
+OBRA_0550,Belo Horizonte,13193,21,Bloco,Alvenaria Estrutural,136080.44
+OBRA_0551,São Paulo,6712,18,Torre,Convencional,99669.31
+OBRA_0552,Rio de Janeiro,7979,3,Geminado,Convencional,86444.58
+OBRA_0553,Fortaleza,5908,10,Bloco,Alvenaria Estrutural,60624.79
+OBRA_0554,Rio de Janeiro,10477,22,Torre,Convencional,154463.7
+OBRA_0555,Rio de Janeiro,8215,7,Torre,Convencional,119026.23
+OBRA_0556,Rio de Janeiro,9442,9,Geminado,Alvenaria Estrutural,87067.92
+OBRA_0557,Porto Alegre,2262,17,Geminado,Convencional,26167.76
+OBRA_0558,Rio de Janeiro,12612,11,Geminado,Convencional,138136.96
+OBRA_0559,Belo Horizonte,7601,7,Bloco,Convencional,91854.52
+OBRA_0560,São Paulo,8174,24,Torre,Convencional,121449.27
+OBRA_0561,Curitiba,13152,14,Geminado,Convencional,143917.14
+OBRA_0562,Rio de Janeiro,6622,19,Bloco,Alvenaria Estrutural,69704.04
+OBRA_0563,Fortaleza,981,4,Bloco,Alvenaria Estrutural,11049.74
+OBRA_0564,Rio de Janeiro,653,6,Bloco,Convencional,8202.44
+OBRA_0565,Fortaleza,8117,10,Geminado,Alvenaria Estrutural,74910.39
+OBRA_0566,Belo Horizonte,2024,7,Geminado,Convencional,22083.72
+OBRA_0567,Fortaleza,2620,13,Torre,Convencional,39527.77
+OBRA_0568,Curitiba,2843,14,Torre,Convencional,42481.68
+OBRA_0569,São Paulo,5636,4,Geminado,Convencional,61374.57
+OBRA_0570,Fortaleza,6260,8,Bloco,Convencional,76118.49
+OBRA_0571,Fortaleza,1740,5,Bloco,Alvenaria Estrutural,18767.29
+OBRA_0572,São Paulo,560,1,Bloco,Alvenaria Estrutural,5959.57
+OBRA_0573,Curitiba,9630,4,Torre,Convencional,139039.92
+OBRA_0574,Rio de Janeiro,2139,3,Bloco,Alvenaria Estrutural,22329.22
+OBRA_0575,Fortaleza,6685,9,Torre,Convencional,97044.9
+OBRA_0576,São Paulo,12812,8,Torre,Alvenaria Estrutural,157779.01
+OBRA_0577,Belo Horizonte,13850,1,Bloco,Convencional,166479.7
+OBRA_0578,São Paulo,8470,6,Bloco,Alvenaria Estrutural,87070.66
+OBRA_0579,Belo Horizonte,12918,9,Geminado,Convencional,140693.93
+OBRA_0580,Curitiba,12261,7,Geminado,Convencional,132852.78
+OBRA_0581,Rio de Janeiro,1752,4,Bloco,Alvenaria Estrutural,18854.42
+OBRA_0582,São Paulo,4703,13,Torre,Alvenaria Estrutural,60067.0
+OBRA_0583,Porto Alegre,8863,17,Torre,Convencional,129273.86
+OBRA_0584,Fortaleza,10150,2,Torre,Alvenaria Estrutural,123873.0
+OBRA_0585,Curitiba,4049,5,Torre,Convencional,59047.14
+OBRA_0586,São Paulo,4697,12,Torre,Alvenaria Estrutural,58831.8
+OBRA_0587,Fortaleza,7509,21,Geminado,Alvenaria Estrutural,71808.63
+OBRA_0588,São Paulo,7167,8,Bloco,Convencional,87073.89
+OBRA_0589,Belo Horizonte,2822,6,Geminado,Alvenaria Estrutural,27153.03
+OBRA_0590,São Paulo,10328,8,Torre,Alvenaria Estrutural,126369.36
+OBRA_0591,Porto Alegre,11807,18,Torre,Convencional,173019.88
+OBRA_0592,São Paulo,4590,3,Torre,Alvenaria Estrutural,56191.04
+OBRA_0593,São Paulo,7460,22,Torre,Convencional,110226.23
+OBRA_0594,Porto Alegre,3504,12,Bloco,Convencional,43363.82
+OBRA_0595,Curitiba,5636,3,Torre,Convencional,80878.11
+OBRA_0596,São Paulo,829,22,Bloco,Convencional,12809.39
+OBRA_0597,Porto Alegre,4140,6,Torre,Convencional,60575.36
+OBRA_0598,Fortaleza,12586,2,Bloco,Alvenaria Estrutural,128714.3
+OBRA_0599,Belo Horizonte,14308,23,Geminado,Convencional,157453.92
+OBRA_0600,Belo Horizonte,8482,12,Torre,Convencional,124626.19
+OBRA_0601,São Paulo,4607,2,Bloco,Alvenaria Estrutural,47013.54
+OBRA_0602,Curitiba,1841,6,Geminado,Alvenaria Estrutural,17689.86
+OBRA_0603,Curitiba,12355,17,Torre,Alvenaria Estrutural,153452.49
+OBRA_0604,Fortaleza,8907,3,Torre,Convencional,128881.61
+OBRA_0605,São Paulo,838,2,Torre,Convencional,12551.5
+OBRA_0606,Belo Horizonte,6395,23,Bloco,Convencional,80295.25
+OBRA_0607,Curitiba,12754,20,Bloco,Alvenaria Estrutural,131900.96
+OBRA_0608,São Paulo,3208,8,Geminado,Convencional,34747.53
+OBRA_0609,Curitiba,11844,22,Bloco,Alvenaria Estrutural,122703.86
+OBRA_0610,Porto Alegre,2250,12,Bloco,Convencional,28818.63
+OBRA_0611,Curitiba,6104,4,Torre,Alvenaria Estrutural,75214.22
+OBRA_0612,Belo Horizonte,2921,5,Torre,Convencional,42548.6
+OBRA_0613,Rio de Janeiro,7619,13,Torre,Convencional,111047.35
+OBRA_0614,Fortaleza,9401,15,Torre,Convencional,137645.04
+OBRA_0615,Fortaleza,5819,23,Torre,Alvenaria Estrutural,74362.01
+OBRA_0616,Belo Horizonte,7109,16,Torre,Alvenaria Estrutural,89125.5
+OBRA_0617,Curitiba,13900,10,Torre,Convencional,201473.33
+OBRA_0618,São Paulo,5887,23,Geminado,Convencional,66136.92
+OBRA_0619,Curitiba,12418,16,Geminado,Convencional,135912.82
+OBRA_0620,Belo Horizonte,12334,12,Geminado,Alvenaria Estrutural,114422.57
+OBRA_0621,Fortaleza,4493,17,Geminado,Convencional,49768.25
+OBRA_0622,Curitiba,9180,16,Torre,Convencional,134594.66
+OBRA_0623,Fortaleza,8544,12,Geminado,Convencional,93350.9
+OBRA_0624,São Paulo,14349,8,Torre,Convencional,208297.91
+OBRA_0625,Fortaleza,8738,20,Geminado,Alvenaria Estrutural,82117.3
+OBRA_0626,Fortaleza,12051,3,Bloco,Alvenaria Estrutural,123643.94
+OBRA_0627,Rio de Janeiro,5373,16,Geminado,Convencional,59605.51
+OBRA_0628,Rio de Janeiro,13827,13,Geminado,Convencional,150602.74
+OBRA_0629,Porto Alegre,5306,23,Torre,Alvenaria Estrutural,68507.77
+OBRA_0630,Rio de Janeiro,9092,19,Geminado,Alvenaria Estrutural,85426.93
+OBRA_0631,Fortaleza,12682,8,Bloco,Convencional,152786.74
+OBRA_0632,Belo Horizonte,6413,22,Torre,Alvenaria Estrutural,81636.41
+OBRA_0633,Fortaleza,7624,5,Torre,Alvenaria Estrutural,93663.11
+OBRA_0634,Belo Horizonte,3657,20,Geminado,Convencional,41768.45
+OBRA_0635,Belo Horizonte,13037,8,Torre,Alvenaria Estrutural,161470.42
+OBRA_0636,Rio de Janeiro,890,24,Torre,Alvenaria Estrutural,13115.56
+OBRA_0637,Curitiba,12545,12,Torre,Convencional,182288.11
+OBRA_0638,São Paulo,4930,1,Torre,Convencional,71340.14
+OBRA_0639,Rio de Janeiro,9320,21,Torre,Alvenaria Estrutural,117029.55
+OBRA_0640,Rio de Janeiro,8186,20,Torre,Convencional,120137.78
+OBRA_0641,Curitiba,4732,6,Bloco,Alvenaria Estrutural,48110.5
+OBRA_0642,São Paulo,11622,22,Geminado,Convencional,128438.97
+OBRA_0643,Fortaleza,8507,18,Bloco,Alvenaria Estrutural,88247.19
+OBRA_0644,Porto Alegre,2021,8,Torre,Convencional,29873.26
+OBRA_0645,Porto Alegre,9518,7,Torre,Alvenaria Estrutural,118132.24
+OBRA_0646,Fortaleza,13514,1,Geminado,Alvenaria Estrutural,124185.17
+OBRA_0647,Rio de Janeiro,2000,21,Bloco,Alvenaria Estrutural,22580.12
+OBRA_0648,São Paulo,7237,16,Geminado,Convencional,79797.7
+OBRA_0649,Rio de Janeiro,3794,12,Bloco,Convencional,46356.01
+OBRA_0650,Belo Horizonte,5585,6,Torre,Alvenaria Estrutural,69432.65
+OBRA_0651,Rio de Janeiro,2919,20,Geminado,Alvenaria Estrutural,28837.15
+OBRA_0652,Rio de Janeiro,9626,2,Geminado,Convencional,104261.15
+OBRA_0653,Fortaleza,3542,14,Torre,Convencional,52962.64
+OBRA_0654,Fortaleza,4997,4,Geminado,Convencional,54253.44
+OBRA_0655,Fortaleza,1966,1,Bloco,Convencional,24168.24
+OBRA_0656,Porto Alegre,4061,23,Bloco,Convencional,51421.35
+OBRA_0657,Belo Horizonte,1114,18,Bloco,Convencional,15495.97
+OBRA_0658,Fortaleza,5892,13,Bloco,Alvenaria Estrutural,61689.35
+OBRA_0659,São Paulo,8193,2,Torre,Convencional,118371.18
+OBRA_0660,Porto Alegre,9874,9,Geminado,Alvenaria Estrutural,92290.66
+OBRA_0661,Curitiba,3723,21,Bloco,Convencional,46315.32
+OBRA_0662,São Paulo,7638,2,Torre,Convencional,110425.15
+OBRA_0663,São Paulo,3167,9,Geminado,Alvenaria Estrutural,29546.46
+OBRA_0664,Fortaleza,8480,1,Geminado,Alvenaria Estrutural,77467.16
+OBRA_0665,Curitiba,13909,11,Torre,Convencional,201645.07
+OBRA_0666,Curitiba,630,3,Torre,Alvenaria Estrutural,8105.74
+OBRA_0667,Porto Alegre,13982,20,Bloco,Alvenaria Estrutural,144705.93
+OBRA_0668,Curitiba,3483,23,Geminado,Alvenaria Estrutural,33326.69
+OBRA_0669,Belo Horizonte,4778,4,Geminado,Alvenaria Estrutural,43958.7
+OBRA_0670,Fortaleza,7626,18,Torre,Convencional,112547.01
+OBRA_0671,Curitiba,13151,23,Geminado,Alvenaria Estrutural,122399.11
+OBRA_0672,Porto Alegre,8730,6,Bloco,Convencional,104922.61
+OBRA_0673,Belo Horizonte,8194,3,Geminado,Convencional,87691.13
+OBRA_0674,Rio de Janeiro,12651,22,Torre,Convencional,185010.8
+OBRA_0675,Rio de Janeiro,7140,11,Torre,Convencional,103825.19
+OBRA_0676,Belo Horizonte,12279,15,Bloco,Alvenaria Estrutural,126283.83
+OBRA_0677,Porto Alegre,5968,22,Bloco,Alvenaria Estrutural,62981.69
+OBRA_0678,Belo Horizonte,1420,5,Geminado,Convencional,15576.09
+OBRA_0679,Fortaleza,8064,20,Geminado,Convencional,88668.08
+OBRA_0680,Fortaleza,11461,10,Torre,Convencional,165420.48
+OBRA_0681,Rio de Janeiro,12803,12,Bloco,Convencional,155227.16
+OBRA_0682,Curitiba,9184,15,Bloco,Alvenaria Estrutural,95583.21
+OBRA_0683,Porto Alegre,14237,17,Bloco,Convencional,172685.63
+OBRA_0684,Rio de Janeiro,9823,10,Geminado,Alvenaria Estrutural,90960.25
+OBRA_0685,Curitiba,12213,6,Bloco,Convencional,147277.41
+OBRA_0686,Curitiba,9002,18,Torre,Convencional,133010.19
+OBRA_0687,Fortaleza,9430,13,Torre,Convencional,136880.15
+OBRA_0688,São Paulo,3741,3,Geminado,Convencional,40519.56
+OBRA_0689,São Paulo,1045,24,Geminado,Alvenaria Estrutural,10935.31
+OBRA_0690,Belo Horizonte,11153,10,Bloco,Alvenaria Estrutural,114961.76
+OBRA_0691,Fortaleza,4846,14,Geminado,Alvenaria Estrutural,45699.5
+OBRA_0692,Curitiba,13546,6,Torre,Convencional,196027.9
+OBRA_0693,Porto Alegre,10496,3,Bloco,Convencional,126388.56
+OBRA_0694,São Paulo,11904,16,Torre,Alvenaria Estrutural,148158.71
+OBRA_0695,Curitiba,14085,7,Bloco,Alvenaria Estrutural,144650.07
+OBRA_0696,São Paulo,14419,20,Geminado,Convencional,158300.45
+OBRA_0697,São Paulo,4310,14,Bloco,Convencional,52867.23
+OBRA_0698,São Paulo,14702,9,Bloco,Alvenaria Estrutural,151474.99
+OBRA_0699,Porto Alegre,7706,15,Torre,Convencional,112765.22
+OBRA_0700,Fortaleza,9505,21,Torre,Convencional,139563.57
+OBRA_0701,Porto Alegre,12816,3,Bloco,Alvenaria Estrutural,131164.62
+OBRA_0702,Rio de Janeiro,13745,2,Geminado,Convencional,148812.96
+OBRA_0703,Curitiba,2532,2,Geminado,Alvenaria Estrutural,22891.43
+OBRA_0704,Fortaleza,13264,3,Torre,Convencional,191346.96
+OBRA_0705,Fortaleza,13105,18,Geminado,Alvenaria Estrutural,122700.42
+OBRA_0706,Fortaleza,8936,14,Torre,Convencional,129960.23
+OBRA_0707,Fortaleza,13535,20,Geminado,Alvenaria Estrutural,126829.91
+OBRA_0708,Porto Alegre,13484,18,Bloco,Alvenaria Estrutural,139251.95
+OBRA_0709,Fortaleza,771,10,Torre,Alvenaria Estrutural,9492.16
+OBRA_0710,Belo Horizonte,4011,2,Torre,Alvenaria Estrutural,48656.07
+OBRA_0711,Curitiba,2271,22,Bloco,Convencional,29410.26
+OBRA_0712,Fortaleza,9954,1,Torre,Convencional,143169.64
+OBRA_0713,Curitiba,11116,4,Geminado,Alvenaria Estrutural,102359.72
+OBRA_0714,Belo Horizonte,4861,14,Geminado,Convencional,52659.06
+OBRA_0715,Belo Horizonte,7569,1,Torre,Convencional,109231.0
+OBRA_0716,Curitiba,1420,14,Geminado,Convencional,16320.45
+OBRA_0717,São Paulo,8690,16,Torre,Convencional,128135.26
+OBRA_0718,Rio de Janeiro,3930,22,Bloco,Convencional,49664.91
+OBRA_0719,São Paulo,4935,14,Torre,Alvenaria Estrutural,62589.42
+OBRA_0720,São Paulo,13176,20,Bloco,Alvenaria Estrutural,136990.37
+OBRA_0721,Porto Alegre,11316,3,Geminado,Alvenaria Estrutural,104697.92
+OBRA_0722,São Paulo,4260,3,Bloco,Alvenaria Estrutural,43474.8
+OBRA_0723,Fortaleza,2550,9,Geminado,Convencional,28222.4
+OBRA_0724,Porto Alegre,12192,6,Torre,Convencional,176316.31
+OBRA_0725,Porto Alegre,1665,13,Geminado,Alvenaria Estrutural,16796.22
+OBRA_0726,Belo Horizonte,9067,21,Torre,Convencional,133333.45
+OBRA_0727,São Paulo,2533,2,Torre,Convencional,36703.57
+OBRA_0728,Belo Horizonte,6967,8,Bloco,Alvenaria Estrutural,72016.2
+OBRA_0729,Curitiba,645,21,Bloco,Convencional,9807.55
+OBRA_0730,Rio de Janeiro,14769,2,Bloco,Alvenaria Estrutural,150363.75
+OBRA_0731,Porto Alegre,4888,4,Bloco,Alvenaria Estrutural,50186.47
+OBRA_0732,Curitiba,8332,15,Geminado,Convencional,91592.69
+OBRA_0733,Curitiba,9123,4,Geminado,Convencional,99177.34
+OBRA_0734,Fortaleza,9396,13,Geminado,Alvenaria Estrutural,87784.62
+OBRA_0735,Rio de Janeiro,8673,12,Torre,Alvenaria Estrutural,107076.79
+OBRA_0736,Curitiba,14786,13,Geminado,Convencional,160686.76
+OBRA_0737,Curitiba,3132,14,Geminado,Alvenaria Estrutural,29551.58
+OBRA_0738,Rio de Janeiro,4994,20,Geminado,Alvenaria Estrutural,48387.14
+OBRA_0739,Rio de Janeiro,8556,18,Bloco,Alvenaria Estrutural,89047.06
+OBRA_0740,Curitiba,8011,6,Geminado,Convencional,87174.86
+OBRA_0741,Rio de Janeiro,9655,11,Torre,Alvenaria Estrutural,119552.49
+OBRA_0742,Curitiba,10926,2,Bloco,Convencional,130994.16
+OBRA_0743,Curitiba,10733,23,Torre,Alvenaria Estrutural,134969.25
+OBRA_0744,Fortaleza,2328,19,Geminado,Convencional,27399.91
+OBRA_0745,São Paulo,10800,19,Bloco,Alvenaria Estrutural,112117.8
+OBRA_0746,Curitiba,12760,5,Torre,Convencional,183911.37
+OBRA_0747,Belo Horizonte,9630,19,Geminado,Convencional,105475.03
+OBRA_0748,Porto Alegre,5305,2,Torre,Convencional,76525.55
+OBRA_0749,São Paulo,1306,10,Torre,Alvenaria Estrutural,16859.44
+OBRA_0750,São Paulo,10155,2,Torre,Alvenaria Estrutural,124008.28
+OBRA_0751,São Paulo,7986,11,Geminado,Alvenaria Estrutural,74135.8
+OBRA_0752,Fortaleza,14113,18,Geminado,Convencional,154256.19
+OBRA_0753,Curitiba,12107,24,Torre,Alvenaria Estrutural,151198.17
+OBRA_0754,Fortaleza,8702,15,Bloco,Convencional,105972.04
+OBRA_0755,Curitiba,13873,9,Bloco,Alvenaria Estrutural,141918.8
+OBRA_0756,Fortaleza,2368,23,Geminado,Convencional,27571.94
+OBRA_0757,Fortaleza,8378,19,Geminado,Convencional,93140.89
+OBRA_0758,Porto Alegre,13559,9,Geminado,Convencional,146783.32
+OBRA_0759,Belo Horizonte,6190,3,Geminado,Alvenaria Estrutural,57281.19
+OBRA_0760,Fortaleza,14395,21,Geminado,Alvenaria Estrutural,134333.67
+OBRA_0761,Porto Alegre,8327,9,Bloco,Alvenaria Estrutural,85792.76
+OBRA_0762,Rio de Janeiro,5929,14,Geminado,Convencional,66429.11
+OBRA_0763,Belo Horizonte,9576,19,Torre,Convencional,140881.26
+OBRA_0764,Fortaleza,4064,7,Torre,Alvenaria Estrutural,51521.61
+OBRA_0765,São Paulo,1889,16,Bloco,Alvenaria Estrutural,20574.27
+OBRA_0766,Rio de Janeiro,12093,16,Torre,Alvenaria Estrutural,149659.75
+OBRA_0767,Rio de Janeiro,7774,1,Bloco,Convencional,93671.77
+OBRA_0768,Porto Alegre,13013,4,Bloco,Convencional,156505.27
+OBRA_0769,Rio de Janeiro,1324,4,Torre,Convencional,20484.43
+OBRA_0770,Belo Horizonte,2765,7,Geminado,Convencional,30788.85
+OBRA_0771,Fortaleza,1436,8,Torre,Convencional,21308.11
+OBRA_0772,Fortaleza,11492,17,Torre,Alvenaria Estrutural,141874.47
+OBRA_0773,São Paulo,11245,5,Bloco,Convencional,135500.88
+OBRA_0774,Porto Alegre,6902,7,Torre,Convencional,100352.24
+OBRA_0775,São Paulo,14699,20,Bloco,Convencional,178944.88
+OBRA_0776,Rio de Janeiro,4345,20,Geminado,Convencional,49691.35
+OBRA_0777,São Paulo,2296,4,Geminado,Convencional,25768.36
+OBRA_0778,Belo Horizonte,8745,6,Geminado,Alvenaria Estrutural,80540.45
+OBRA_0779,Fortaleza,7714,7,Torre,Convencional,111442.69
+OBRA_0780,Rio de Janeiro,1226,18,Bloco,Convencional,16254.94
+OBRA_0781,São Paulo,3236,5,Geminado,Convencional,35120.4
+OBRA_0782,Porto Alegre,14332,20,Bloco,Alvenaria Estrutural,148043.03
+OBRA_0783,Belo Horizonte,11862,3,Bloco,Alvenaria Estrutural,121450.93
+OBRA_0784,Belo Horizonte,13831,7,Geminado,Alvenaria Estrutural,127210.7
+OBRA_0785,São Paulo,2413,22,Geminado,Convencional,28576.6
+OBRA_0786,Fortaleza,14564,14,Bloco,Alvenaria Estrutural,150161.82
+OBRA_0787,São Paulo,10288,7,Geminado,Convencional,111938.07
+OBRA_0788,Rio de Janeiro,10606,5,Bloco,Convencional,127307.69
+OBRA_0789,São Paulo,8157,22,Bloco,Alvenaria Estrutural,85679.31
+OBRA_0790,Belo Horizonte,2966,5,Geminado,Convencional,33613.43
+OBRA_0791,São Paulo,11429,23,Torre,Convencional,168012.55
+OBRA_0792,Fortaleza,9541,2,Geminado,Convencional,101782.26
+OBRA_0793,Porto Alegre,10801,21,Torre,Alvenaria Estrutural,135395.08
+OBRA_0794,Curitiba,7812,22,Bloco,Convencional,96032.63
+OBRA_0795,São Paulo,8694,6,Bloco,Convencional,106180.86
+OBRA_0796,Fortaleza,12947,15,Torre,Alvenaria Estrutural,160365.46
+OBRA_0797,Fortaleza,8406,21,Bloco,Convencional,102549.65
+OBRA_0798,Porto Alegre,12761,10,Torre,Convencional,184166.05
+OBRA_0799,Belo Horizonte,5376,23,Torre,Alvenaria Estrutural,69387.31
+OBRA_0800,Fortaleza,7787,24,Bloco,Convencional,96876.95
+OBRA_0801,Fortaleza,1392,7,Torre,Convencional,22165.81
+OBRA_0802,Fortaleza,10722,5,Geminado,Convencional,116343.06
+OBRA_0803,Fortaleza,11852,1,Geminado,Convencional,128081.34
+OBRA_0804,Rio de Janeiro,11068,13,Bloco,Convencional,134184.64
+OBRA_0805,Rio de Janeiro,5175,21,Bloco,Alvenaria Estrutural,54597.85
+OBRA_0806,Belo Horizonte,2433,18,Torre,Alvenaria Estrutural,31786.91
+OBRA_0807,São Paulo,1880,13,Torre,Alvenaria Estrutural,24711.13
+OBRA_0808,Fortaleza,12373,21,Torre,Alvenaria Estrutural,153593.97
+OBRA_0809,Porto Alegre,1790,21,Torre,Convencional,27965.36
+OBRA_0810,São Paulo,2140,18,Geminado,Convencional,25135.94
+OBRA_0811,Porto Alegre,13739,5,Geminado,Convencional,148488.1
+OBRA_0812,São Paulo,7990,13,Bloco,Convencional,95820.28
+OBRA_0813,Belo Horizonte,11374,4,Torre,Convencional,164637.88
+OBRA_0814,Fortaleza,9679,17,Torre,Alvenaria Estrutural,119997.73
+OBRA_0815,Fortaleza,1718,3,Bloco,Alvenaria Estrutural,18160.49
+OBRA_0816,Curitiba,5516,17,Torre,Convencional,82197.32
+OBRA_0817,Porto Alegre,7381,11,Torre,Convencional,108012.2
+OBRA_0818,São Paulo,10047,21,Torre,Convencional,148949.21
+OBRA_0819,São Paulo,12957,20,Torre,Alvenaria Estrutural,160972.65
+OBRA_0820,Rio de Janeiro,13308,23,Torre,Convencional,194804.38
+OBRA_0821,Curitiba,14274,21,Bloco,Convencional,174149.84
+OBRA_0822,Rio de Janeiro,12827,4,Torre,Convencional,185257.08
+OBRA_0823,Rio de Janeiro,10252,2,Bloco,Alvenaria Estrutural,105354.65
+OBRA_0824,Rio de Janeiro,10110,20,Torre,Convencional,147829.6
+OBRA_0825,Porto Alegre,1454,16,Geminado,Alvenaria Estrutural,14190.43
+OBRA_0826,Porto Alegre,9675,18,Geminado,Alvenaria Estrutural,90851.8
+OBRA_0827,Belo Horizonte,7791,8,Geminado,Alvenaria Estrutural,71673.37
+OBRA_0828,Belo Horizonte,1474,3,Geminado,Alvenaria Estrutural,14111.27
+OBRA_0829,Rio de Janeiro,4633,9,Bloco,Alvenaria Estrutural,48359.6
+OBRA_0830,Curitiba,5870,20,Bloco,Alvenaria Estrutural,61566.76
+OBRA_0831,São Paulo,4472,6,Torre,Convencional,65444.39
+OBRA_0832,Porto Alegre,5795,10,Geminado,Convencional,63048.7
+OBRA_0833,Curitiba,14413,21,Bloco,Convencional,174976.05
+OBRA_0834,Fortaleza,9605,10,Torre,Alvenaria Estrutural,118670.61
+OBRA_0835,Porto Alegre,13241,13,Torre,Convencional,192581.86
+OBRA_0836,Porto Alegre,8728,17,Bloco,Alvenaria Estrutural,90607.78
+OBRA_0837,Belo Horizonte,12079,9,Geminado,Alvenaria Estrutural,111927.98
+OBRA_0838,São Paulo,10403,17,Torre,Alvenaria Estrutural,129607.75
+OBRA_0839,São Paulo,3520,24,Geminado,Convencional,41372.68
+OBRA_0840,Fortaleza,9487,9,Geminado,Alvenaria Estrutural,87869.22
+OBRA_0841,Fortaleza,4536,9,Geminado,Alvenaria Estrutural,43063.96
+OBRA_0842,Porto Alegre,5568,1,Torre,Convencional,80783.56
+OBRA_0843,Rio de Janeiro,13380,2,Geminado,Convencional,145866.99
+OBRA_0844,Belo Horizonte,5733,16,Torre,Alvenaria Estrutural,72066.69
+OBRA_0845,Belo Horizonte,11803,1,Geminado,Alvenaria Estrutural,108233.16
+OBRA_0846,Porto Alegre,10016,10,Torre,Convencional,146299.25
+OBRA_0847,Curitiba,817,18,Geminado,Convencional,10960.32
+OBRA_0848,Rio de Janeiro,2896,8,Bloco,Convencional,36352.83
+OBRA_0849,Porto Alegre,2662,21,Geminado,Alvenaria Estrutural,26723.36
+OBRA_0850,Rio de Janeiro,3245,11,Geminado,Convencional,35180.62
+OBRA_0851,Rio de Janeiro,14134,23,Torre,Convencional,207029.76
+OBRA_0852,Rio de Janeiro,2091,2,Torre,Convencional,30554.01
+OBRA_0853,Porto Alegre,11803,8,Geminado,Alvenaria Estrutural,109152.49
+OBRA_0854,Belo Horizonte,14677,22,Bloco,Convencional,178697.88
+OBRA_0855,Belo Horizonte,6683,8,Bloco,Convencional,80359.93
+OBRA_0856,Rio de Janeiro,4430,17,Torre,Convencional,66677.09
+OBRA_0857,Curitiba,10688,15,Bloco,Convencional,130242.88
+OBRA_0858,São Paulo,14560,17,Geminado,Convencional,159634.98
+OBRA_0859,Porto Alegre,1812,23,Torre,Alvenaria Estrutural,24224.7
+OBRA_0860,São Paulo,9977,24,Geminado,Alvenaria Estrutural,94045.63
+OBRA_0861,Curitiba,4811,13,Torre,Alvenaria Estrutural,60360.51
+OBRA_0862,Porto Alegre,7814,19,Torre,Convencional,115329.49
+OBRA_0863,Rio de Janeiro,2883,5,Torre,Alvenaria Estrutural,35788.34
+OBRA_0864,Belo Horizonte,3739,12,Torre,Alvenaria Estrutural,47505.96
+OBRA_0865,São Paulo,2639,1,Bloco,Alvenaria Estrutural,26938.36
+OBRA_0866,Fortaleza,2204,23,Geminado,Convencional,25761.24
+OBRA_0867,Fortaleza,7424,5,Geminado,Convencional,80762.41
+OBRA_0868,Curitiba,862,8,Geminado,Alvenaria Estrutural,8540.47
+OBRA_0869,Rio de Janeiro,3104,13,Torre,Alvenaria Estrutural,39542.46
+OBRA_0870,São Paulo,10408,8,Bloco,Convencional,124262.09
+OBRA_0871,Rio de Janeiro,13981,23,Geminado,Convencional,153820.12
+OBRA_0872,São Paulo,13143,11,Bloco,Alvenaria Estrutural,135023.27
+OBRA_0873,Curitiba,4786,1,Torre,Convencional,68388.32
+OBRA_0874,Curitiba,4238,13,Geminado,Alvenaria Estrutural,40559.52
+OBRA_0875,Fortaleza,2969,19,Bloco,Convencional,38226.18
+OBRA_0876,Rio de Janeiro,5295,24,Torre,Alvenaria Estrutural,67584.74
+OBRA_0877,Porto Alegre,6650,3,Bloco,Alvenaria Estrutural,67559.92
+OBRA_0878,Fortaleza,14968,24,Geminado,Convencional,164335.42
+OBRA_0879,Rio de Janeiro,1056,17,Geminado,Alvenaria Estrutural,11316.23
+OBRA_0880,Fortaleza,9517,5,Torre,Alvenaria Estrutural,117562.25
+OBRA_0881,Porto Alegre,3308,20,Torre,Alvenaria Estrutural,42716.05
+OBRA_0882,Belo Horizonte,5650,21,Torre,Convencional,84981.46
+OBRA_0883,Belo Horizonte,13213,8,Bloco,Convencional,159245.87
+OBRA_0884,Belo Horizonte,8061,14,Bloco,Convencional,97739.08
+OBRA_0885,Belo Horizonte,3219,4,Bloco,Alvenaria Estrutural,32675.66
+OBRA_0886,São Paulo,7006,11,Torre,Convencional,102439.19
+OBRA_0887,Belo Horizonte,12200,20,Geminado,Alvenaria Estrutural,113799.24
+OBRA_0888,Porto Alegre,4241,15,Geminado,Alvenaria Estrutural,40473.31
+OBRA_0889,Curitiba,10266,19,Bloco,Convencional,125426.81
+OBRA_0890,Curitiba,4498,7,Bloco,Convencional,55304.66
+OBRA_0891,São Paulo,10821,19,Geminado,Alvenaria Estrutural,100950.43
+OBRA_0892,Belo Horizonte,2903,19,Geminado,Alvenaria Estrutural,27395.6
+OBRA_0893,Belo Horizonte,12021,11,Bloco,Convencional,145511.45
+OBRA_0894,Belo Horizonte,9280,5,Bloco,Convencional,110956.61
+OBRA_0895,Fortaleza,10704,5,Geminado,Convencional,116278.9
+OBRA_0896,Rio de Janeiro,10239,22,Torre,Alvenaria Estrutural,128546.76
+OBRA_0897,Fortaleza,794,8,Bloco,Alvenaria Estrutural,8421.69
+OBRA_0898,Rio de Janeiro,10677,10,Geminado,Alvenaria Estrutural,99642.14
+OBRA_0899,Belo Horizonte,5843,6,Geminado,Alvenaria Estrutural,54610.96
+OBRA_0900,Belo Horizonte,14336,15,Geminado,Alvenaria Estrutural,133584.72
+OBRA_0901,Fortaleza,11809,16,Geminado,Convencional,129359.98
+OBRA_0902,Fortaleza,10382,17,Torre,Convencional,151452.42
+OBRA_0903,Rio de Janeiro,1636,8,Geminado,Alvenaria Estrutural,16143.29
+OBRA_0904,Curitiba,14044,8,Bloco,Alvenaria Estrutural,143752.5
+OBRA_0905,Rio de Janeiro,2564,9,Torre,Convencional,38276.54
+OBRA_0906,Fortaleza,13147,2,Geminado,Convencional,142117.92
+OBRA_0907,Porto Alegre,7509,15,Torre,Convencional,110851.95
+OBRA_0908,Fortaleza,13487,18,Bloco,Convencional,164369.16
+OBRA_0909,Porto Alegre,5043,3,Geminado,Alvenaria Estrutural,46529.86
+OBRA_0910,São Paulo,13462,17,Bloco,Convencional,162608.2
+OBRA_0911,Fortaleza,1507,4,Geminado,Alvenaria Estrutural,13883.85
+OBRA_0912,São Paulo,5945,4,Geminado,Convencional,64990.11
+OBRA_0913,Curitiba,11206,14,Geminado,Convencional,122676.86
+OBRA_0914,Rio de Janeiro,12218,9,Geminado,Convencional,132174.79
+OBRA_0915,Porto Alegre,13373,9,Geminado,Alvenaria Estrutural,122687.05
+OBRA_0916,Rio de Janeiro,5852,23,Torre,Alvenaria Estrutural,74541.43
+OBRA_0917,São Paulo,9939,18,Geminado,Convencional,108756.67
+OBRA_0918,Porto Alegre,13781,10,Geminado,Alvenaria Estrutural,126947.18
+OBRA_0919,Rio de Janeiro,12594,21,Torre,Alvenaria Estrutural,157057.26
+OBRA_0920,Fortaleza,1935,4,Torre,Convencional,29041.12
+OBRA_0921,Belo Horizonte,1071,12,Torre,Convencional,16775.05
+OBRA_0922,São Paulo,2882,8,Torre,Alvenaria Estrutural,36232.5
+OBRA_0923,Rio de Janeiro,9937,2,Torre,Alvenaria Estrutural,121836.56
+OBRA_0924,São Paulo,10776,22,Torre,Alvenaria Estrutural,134508.94
+OBRA_0925,São Paulo,5584,13,Geminado,Convencional,61731.5
+OBRA_0926,Porto Alegre,777,21,Geminado,Convencional,11037.85
+OBRA_0927,Porto Alegre,14007,16,Bloco,Alvenaria Estrutural,144166.44
+OBRA_0928,Belo Horizonte,7559,2,Geminado,Convencional,81090.56
+OBRA_0929,Fortaleza,2387,11,Geminado,Convencional,27812.6
+OBRA_0930,São Paulo,13271,10,Torre,Alvenaria Estrutural,164205.75
+OBRA_0931,Rio de Janeiro,1765,15,Torre,Alvenaria Estrutural,22887.78
+OBRA_0932,Curitiba,7991,17,Geminado,Convencional,88206.62
+OBRA_0933,São Paulo,13518,8,Bloco,Convencional,163681.35
+OBRA_0934,São Paulo,1540,18,Torre,Alvenaria Estrutural,21427.32
+OBRA_0935,Belo Horizonte,9609,23,Geminado,Convencional,106492.21
+OBRA_0936,Fortaleza,8573,9,Geminado,Convencional,93475.29
+OBRA_0937,Curitiba,9577,8,Bloco,Alvenaria Estrutural,99365.05
+OBRA_0938,Porto Alegre,3252,14,Bloco,Alvenaria Estrutural,34708.83
+OBRA_0939,Porto Alegre,8713,18,Torre,Convencional,127801.72
+OBRA_0940,Rio de Janeiro,5069,22,Bloco,Convencional,63903.54
+OBRA_0941,Curitiba,11883,20,Geminado,Convencional,130544.43
+OBRA_0942,Porto Alegre,6853,20,Geminado,Alvenaria Estrutural,64921.44
+OBRA_0943,Rio de Janeiro,2853,21,Bloco,Convencional,36857.57
+OBRA_0944,Fortaleza,7937,12,Bloco,Convencional,96932.39
+OBRA_0945,Rio de Janeiro,5299,19,Bloco,Alvenaria Estrutural,55498.57
+OBRA_0946,Porto Alegre,1186,14,Bloco,Alvenaria Estrutural,12799.65
+OBRA_0947,Belo Horizonte,8976,17,Torre,Convencional,132419.47
+OBRA_0948,Belo Horizonte,5311,24,Bloco,Alvenaria Estrutural,56744.99
+OBRA_0949,Belo Horizonte,12439,21,Torre,Alvenaria Estrutural,155209.18
+OBRA_0950,Porto Alegre,9454,3,Geminado,Convencional,101547.32
+OBRA_0951,Belo Horizonte,5846,23,Bloco,Alvenaria Estrutural,62508.54
+OBRA_0952,Curitiba,5543,7,Torre,Alvenaria Estrutural,68442.38
+OBRA_0953,Fortaleza,2928,17,Bloco,Convencional,36772.89
+OBRA_0954,Rio de Janeiro,11199,12,Geminado,Alvenaria Estrutural,103876.73
+OBRA_0955,Rio de Janeiro,5626,9,Geminado,Convencional,61243.81
+OBRA_0956,Porto Alegre,8720,15,Geminado,Convencional,95795.13
+OBRA_0957,Belo Horizonte,9598,18,Bloco,Alvenaria Estrutural,99667.43
+OBRA_0958,Belo Horizonte,11796,21,Bloco,Alvenaria Estrutural,122991.4
+OBRA_0959,São Paulo,8313,13,Torre,Alvenaria Estrutural,104098.99
+OBRA_0960,Fortaleza,14914,21,Geminado,Convencional,164079.96
+OBRA_0961,Curitiba,12691,8,Bloco,Alvenaria Estrutural,129131.94
+OBRA_0962,Rio de Janeiro,11686,14,Geminado,Convencional,127253.22
+OBRA_0963,São Paulo,11198,8,Geminado,Alvenaria Estrutural,102394.6
+OBRA_0964,São Paulo,13357,14,Torre,Alvenaria Estrutural,164606.51
+OBRA_0965,Porto Alegre,14794,7,Torre,Alvenaria Estrutural,181610.6
+OBRA_0966,Rio de Janeiro,12301,23,Torre,Convencional,180651.68
+OBRA_0967,Porto Alegre,12245,12,Torre,Alvenaria Estrutural,151087.63
+OBRA_0968,Curitiba,10145,11,Geminado,Alvenaria Estrutural,93894.86
+OBRA_0969,São Paulo,13525,22,Torre,Convencional,198018.88
+OBRA_0970,São Paulo,3856,22,Torre,Convencional,57839.75
+OBRA_0971,Fortaleza,9207,11,Torre,Alvenaria Estrutural,113620.78
+OBRA_0972,Curitiba,14788,22,Torre,Alvenaria Estrutural,183446.14
+OBRA_0973,São Paulo,7766,13,Geminado,Alvenaria Estrutural,72384.08
+OBRA_0974,Curitiba,7040,18,Torre,Convencional,104006.48
+OBRA_0975,Rio de Janeiro,538,2,Geminado,Convencional,6776.72
+OBRA_0976,Belo Horizonte,3842,21,Bloco,Convencional,49078.17
+OBRA_0977,São Paulo,9578,15,Geminado,Convencional,104677.74
+OBRA_0978,Fortaleza,3344,20,Geminado,Alvenaria Estrutural,32403.26
+OBRA_0979,Rio de Janeiro,10896,18,Torre,Convencional,159329.68
+OBRA_0980,Curitiba,1598,15,Bloco,Convencional,20718.92
+OBRA_0981,Porto Alegre,7527,19,Bloco,Convencional,92740.26
+OBRA_0982,Rio de Janeiro,2323,23,Bloco,Alvenaria Estrutural,25110.71
+OBRA_0983,São Paulo,11893,24,Bloco,Alvenaria Estrutural,124196.96
+OBRA_0984,Curitiba,14498,12,Geminado,Convencional,158721.18
+OBRA_0985,Belo Horizonte,13761,13,Bloco,Convencional,166557.08
+OBRA_0986,Rio de Janeiro,3655,22,Geminado,Alvenaria Estrutural,35427.82
+OBRA_0987,São Paulo,3593,11,Geminado,Alvenaria Estrutural,34072.06
+OBRA_0988,Fortaleza,12222,5,Geminado,Alvenaria Estrutural,113166.65
+OBRA_0989,Porto Alegre,6158,1,Bloco,Alvenaria Estrutural,62751.45
+OBRA_0990,Curitiba,4278,24,Torre,Alvenaria Estrutural,55767.29
+OBRA_0991,Rio de Janeiro,3396,3,Torre,Alvenaria Estrutural,42178.49
+OBRA_0992,Rio de Janeiro,12145,22,Bloco,Alvenaria Estrutural,127303.81
+OBRA_0993,Belo Horizonte,12203,19,Torre,Alvenaria Estrutural,151525.99
+OBRA_0994,Belo Horizonte,1488,23,Torre,Convencional,23751.2
+OBRA_0995,Fortaleza,4616,7,Geminado,Convencional,49892.33
+OBRA_0996,Porto Alegre,6946,12,Geminado,Convencional,76318.76
+OBRA_0997,Fortaleza,13656,15,Bloco,Convencional,166185.94
+OBRA_0998,São Paulo,12718,5,Bloco,Convencional,152889.75
+OBRA_0999,São Paulo,4679,15,Torre,Convencional,69422.13
+OBRA_1000,Fortaleza,2182,8,Geminado,Alvenaria Estrutural,21107.58
